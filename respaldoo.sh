@@ -24,4 +24,6 @@ echo "directorio ssh creado con exito"
 #Realizar el respaldo con compresión
 rsync -avz --delete "$LOCAL_DIR/" "$REMOTE_IP:$REMOTE_DIR/"
 
+#Creado por linda Fernanda Moreno Nuñez y Ruben Alejandro Saldaña Beltran
+
 
